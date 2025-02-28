@@ -60,7 +60,11 @@
 
 ###
 
-<h2 align="left"><Codo estes> = [Ou tento]</h2>
+<h2 align="left">Codo estes</h2>
+
+###
+
+<h6 align="left">(ou tento)</h6>
 
 ###
 
